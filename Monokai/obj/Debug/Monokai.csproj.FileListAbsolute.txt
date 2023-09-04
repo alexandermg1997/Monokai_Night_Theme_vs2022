@@ -1,0 +1,14 @@
+D:\Proy\Monokai\Monokai\bin\Debug\Monokai Night Theme.pkgdef
+D:\Proy\Monokai\Monokai\bin\Debug\Monokai Night.jpg
+D:\Proy\Monokai\Monokai\bin\Debug\Monokai.vsix
+D:\Proy\Monokai\Monokai\bin\Debug\extension.vsixmanifest
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.csproj.AssemblyReference.cache
+D:\Proy\Monokai\Monokai\obj\Debug\_EmptyResource.resources
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.csproj.GenerateResource.cache
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.csproj.CoreCompileInputs.cache
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.dll
+D:\Proy\Monokai\Monokai\obj\Debug\Monokai.pdb
+D:\Proy\Monokai\Monokai\obj\Debug\extension.vsixmanifest
+D:\Proy\Monokai\Monokai\obj\Debug\files.json
+D:\Proy\Monokai\Monokai\obj\Debug\createTemplateManifests.cache

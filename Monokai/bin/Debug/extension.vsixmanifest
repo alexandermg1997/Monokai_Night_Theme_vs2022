@@ -1,0 +1,22 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Monokai.654ef57c-76cc-484c-bc63-64ba90c4f28f" Version="1.0" Language="en-US" Publisher="Erasmo Alexander Marín Gómez" />
+    <DisplayName>Monokai Night Theme vs2022</DisplayName>
+    <Description xml:space="preserve">This theme is based on the VSC theme. It is created with the aim of anyone who wishes to be able to keep it. It is a pleasure for our team to make it available to everyone.</Description>
+    <Icon>Monokai Night.jpg</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Monokai Night Theme.jsonc\Monokai Night Theme.pkgdef" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+</PackageManifest>
